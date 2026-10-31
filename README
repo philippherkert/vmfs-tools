@@ -1,3 +1,5 @@
+This fork (branch esxi8-fixes) adds fixes for datastores larger than 16 TiB, VMFS5 files larger than 256 GiB, and FUSE 3. Static x86_64 binaries are under Releases (https://github.com/philippherkert/vmfs-tools/releases). Each fix is also offered upstream as a pull request.
+
 vmfs-tools - Tools to access VMFS filesystems
 =============================================
 
